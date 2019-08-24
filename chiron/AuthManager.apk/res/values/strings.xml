@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="HIPS_Action_Accept">Allow</string>
-  <string name="HIPS_Action_Accept_Once">Allow Once</string>
-  <string name="HIPS_Action_Reject">Deny</string>
-  <string name="HIPS_Action_Reject_Once">Deny Once</string>
-  <string name="HIPS_Perm_AudioRecorder">Record audio</string>
-  <string name="HIPS_Perm_AudioRecorder_Desc">record audio and phone calls</string>
-  <string name="HIPS_Perm_AutoStart">Run at startup</string>
-  <string name="HIPS_Perm_AutoStart_Desc">run at startup</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity">Change Bluetooth connectivity</string>
+  <string name="HIPS_Action_Accept">Ijinkan</string>
+  <string name="HIPS_Action_Accept_Once">Ijinkan sekali</string>
+  <string name="HIPS_Action_Reject">Tolak</string>
+  <string name="HIPS_Action_Reject_Once">Tolak sekali</string>
+  <string name="HIPS_Perm_AudioRecorder">Rekam audio</string>
+  <string name="HIPS_Perm_AudioRecorder_Desc">rekam audio dan panggilan telepon</string>
+  <string name="HIPS_Perm_AutoStart">Jalankan saat memulai</string>
+  <string name="HIPS_Perm_AutoStart_Desc">jalankan saat memulai</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">Ganti Konektifitas Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">turn Bluetooth on or off</string>
   <string name="HIPS_Perm_Body_Sensors">Body sensors</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">body sensors (e.g., Heart rate sensor)</string>
